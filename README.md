@@ -1,7 +1,5 @@
 # webtech-prj-meditatii
 
-# webtech-prj-meditatii
-
 # Care e problema ce se doreste a fi rezolvata?
     Proiectul meu prezinta utilizatorilor interesati de meditatii profesori ce sunt dispus sa ofere,
 informatii despre acestia (date de contact, numarul de locuri disponibile in total pentru meditatii,
